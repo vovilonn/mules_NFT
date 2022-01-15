@@ -5,8 +5,8 @@
     "main": "./server.js",
     "scripts": {
         "start": "ts-node server.ts",
-        "mainnet": "cross-env HOST='5.63.154.39' ts-node server.ts",
-        "testnet": "cross-env DEV=true HOST='5.63.154.39' ts-node server.ts",
+        "mainnet": "cross-env ts-node server.ts",
+        "testnet": "cross-env DEV=true ts-node server.ts",
         "dev": "cross-env NOTSSL=true DEV=true PORT='3000' HOST='127.0.0.1' nodemon server.ts",
         "test": "jest"
     },
