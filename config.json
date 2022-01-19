@@ -8,7 +8,7 @@
             "provider": "https://eth-mainnet.alchemyapi.io/v2/uJ3EVtOeopikiLvt7Xx4LgyjPldxjXxk"
         },
         "testnet": {
-            "main": "0xd62aB575542B5D675C613163926553A75DE7C432",
+            "main": "0xA7f98789bd7585aB8879ae43417f647de17BFBa6",
             "provider": "https://eth-rinkeby.alchemyapi.io/v2/GMzo7hCZLo9inUXKatPt-O1twOMilvYf"
         }
     }
