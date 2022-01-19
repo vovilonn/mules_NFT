@@ -49,5 +49,5 @@ function checkDate(birthday) {
 
     const currentTime = Date.now() / 1000;
 
-    return currentTime > birthday + 432000; // current time > birthday + one week
+    return currentTime > birthday + 600; // current time > birthday + 10 mins
 }
