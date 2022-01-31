@@ -2,7 +2,7 @@ import ABI from "./abi.js";
 
 const config = {
     mainChainId: 4,
-    contractAddress: "0xA7f98789bd7585aB8879ae43417f647de17BFBa6",
+    contractAddress: "0x5642a1C06F0BdcBEC9e506f88b2e2CCD32366527",
 };
 
 const mintBtn = document.querySelector("#mintBtn");
